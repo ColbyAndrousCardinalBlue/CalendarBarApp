@@ -8,10 +8,9 @@ A macOS menu bar application that displays all-day events from a shared Google C
 
 - 📅 **Google Calendar Integration** - OAuth 2.0 authentication
 - 🌍 **Timezone Support** - 27 timezones for international teams
-- 🔄 **Event Cycling** - Rotate through all events or show only the longest
+- 🔄 **Event Cycling** - Rotate through events or show only the current cycle
 - ⏰ **Auto-refresh** - Updates every 30 minutes
 - 🖥️ **Multi-monitor Support** - Adapts to display changes
-- 🎨 **Clean UI** - Green text in menu bar, dropdown for settings
 
 ## Installation
 
