@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(swift test_fetch.swift:*)",
+      "Bash(swift test_fetch_advanced.swift:*)",
+      "Bash(curl:*)",
+      "Bash(swift build:*)",
+      "Bash(.build/debug/CalendarBarApp)",
+      "Bash(pkill:*)",
+      "Bash(timeout:*)",
+      "Bash(chmod:*)",
+      "Bash(./run_and_log.sh:*)",
+      "Bash(git add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(defaults write:*)",
+      "Bash(defaults delete:*)",
+      "Bash(./create_app_bundle.sh:*)",
+      "Bash(./create_dmg.sh:*)",
+      "Bash(gh repo delete:*)",
+      "Bash(gh repo create:*)",
+      "Bash(gh auth refresh:*)",
+      "Bash(git remote:*)",
+      "Bash(git checkout:*)"
+    ]
+  }
+}

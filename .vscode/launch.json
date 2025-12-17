@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:CalendarBarApp}",
+            "name": "Debug CalendarBarApp",
+            "target": "CalendarBarApp",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug CalendarBarApp"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:CalendarBarApp}",
+            "name": "Release CalendarBarApp",
+            "target": "CalendarBarApp",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release CalendarBarApp"
+        }
+    ]
+}
